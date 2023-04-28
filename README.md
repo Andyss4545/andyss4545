@@ -18,8 +18,8 @@
 <br>
 
 - A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning TypeScript and Phyton
+- Playing CTF's game at my spare time
+- Currently learning TypeScript and Python
 - Personal website [link](https://www.uchubs.com)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.dropbox.com/s/j9mxvihphvn1ibx/Temitope_Omosebi_-_Frontend_Software_Engineer.pdf?dl=0)
 
@@ -143,7 +143,7 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b>God bless you all✨</b>
 
 </div>
 <br>
@@ -155,6 +155,6 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+Credit: [Temitope Omosebi](https://github.com/andyss45)
 
-Last Edited on: 09/11/2022
+Last Edited on: 28/04/2023
