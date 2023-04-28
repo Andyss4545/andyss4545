@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Temitope Andrew Omosebi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Knowledge+is+everything..&hearts;++;Self-taught+MERN+Stack+Developer,;An+Intern+At+Andela,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Knowledge+is+everything..&hearts;++;Self-taught+MERN+Stack+Developer,;An+Intern+At+Andela,;A+python+Enthusiast,;Active+Learner/Researcher,;Programming+Makes+Me+Smart..<3"></a>
 </p>
 
 
@@ -17,7 +17,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- A passionate Self-taught MERN Stack developer
 - Playing CTF's game at my spare time
 - Currently learning TypeScript and Python
 - Personal website [link](https://www.uchubs.com)
@@ -111,7 +111,7 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
+<a href="https://www.linkedin.com/in/temitope-andrews-5035aaaa/n" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Temitope-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
