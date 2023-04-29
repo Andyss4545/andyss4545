@@ -48,7 +48,7 @@
    ![ReactJS](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)
    ![Express](https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg)
    ![MongoDbB](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)
-
+   ![Bootstrap](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg)
 <br>
 
 - **Cloud Hosting**:
